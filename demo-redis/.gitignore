@@ -1,0 +1,36 @@
+# Maven
+/target/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Others
+.env
+*.jar
+*.war
+*.ear
+
+# Test reports
+/test-output/
+
+# Misc
+node_modules/
+
+# Ignore local config
+application-local.properties
+
