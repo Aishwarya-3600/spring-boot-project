@@ -1,4 +1,4 @@
-# Combined-Folder Workspace
+# Spring boot project Workspace
 
 ## Common Setup
 
